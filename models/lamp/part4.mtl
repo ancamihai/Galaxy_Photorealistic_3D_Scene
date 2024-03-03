@@ -1,0 +1,12 @@
+# Blender 4.0.2 MTL File: 'scena.blend'
+# www.blender.org
+
+newmtl Material.010
+Ns 96.078453
+Ka 1.000000 1.000000 1.000000
+Ks 0.150794 0.150794 0.150794
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd grey-concrete-texture.jpg
